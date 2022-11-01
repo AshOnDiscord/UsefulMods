@@ -34,28 +34,3 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [TieFix](https://modrinth.com/mod/tiefix) | Unknown | Fixes some annoying bugs in the Minecraft client. | j-tai | Client | none |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix) | Unknown | Stops tooltips that are too large to fit on the screen from running off the screen | Kryptonaught | Client | none |
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none |
-
-## Forge 1.19.X
-
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| :--: | :-------------------: | :-------: | :---: | :---: | :---: |
-| [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
-| [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none |
-| [MCMouser](https://www.curseforge.com/minecraft/mc-mods/mcmouser) | Unknown | A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
-| [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Stips the cryptographic signatures from chat messsages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None |
-
-## Quilt 1.19.X
-
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| :--: | :-------------------: | :-------: | :---: | :---: | :---: |
-| [Blanket](https://modrinth.com/mod/blanket) | Unknown | Fixes a variety of bugs, as well as including some QoL features. | KosmX | Client | none |
-| [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | none |
-| [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | IsXander | Both | none |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none |
-| [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
-| [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes the MC-127862 bug, which sometimes makes pressing the Alt Gr key lock your left control key. | MikolajKolek | Client | none |
-| [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Strips the cryptographic signatures from chat messages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None |
-| [Thorium](https://modrinth.com/mod/thorium) | Unknown | fabric mod that fixes 50+ small bugs and annoyances in Minecraft. | NoahvdAa | Both | None |
-| [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none |
-
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
