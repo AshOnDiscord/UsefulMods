@@ -29,7 +29,7 @@ You are responasable to check anything you download from the internet using hash
 ## External Software
 
 | Theme | Description |
-| :---: | :---: |]
+| :---: | :---: |
 | [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
 | [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
 
