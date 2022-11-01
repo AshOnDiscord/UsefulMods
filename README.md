@@ -19,34 +19,19 @@ You are responasable to check anything you download from the internet using hash
 | Version | Performance | Bugfixes |
 | :-: | :-: | :-: |
 | 1.19.x | [✔️ Available](Performance/Performance119.md) | [✔️ Available](BugFixes/BugFixes119.md)
-| 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md)
-| 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md)
-| 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md)
-| 1.15.x | [✔️ Available](Performance/Performance115.md) | [✔️ Available](BugFixes/BugFixes115.md)
-| 1.12.x | [✔️ Available](Performance/Performance112.md) | [✔️ Available](BugFixes/BugFixes112.md)
-| 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md)
 
 ### Enhancement mods
 
 | Version | Helpful | Improvements |
 | :-: | :-: | :-: |
 | 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md)
-| 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
-| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvementsl117.md) |
-| 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
-| 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) |
-| 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) |
-| 1.8.9 and below | [⚠️ WIP](Enhancements/Helpful/HelpfulOld.md) | [⚠️ WIP](Enhancements/Improvements/ImprovementsOld.md) |
 
 ## External Software
 
 | Theme | Description |
-| :---: | :---: |
-| [Launchers](Software/SoftwareLaunchers.md) | Used to launch the game
+| :---: | :---: |]
 | [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
-| [Graphical](Software/SoftwareGraphical.md) | Graphical related software
 | [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
-| [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
 
