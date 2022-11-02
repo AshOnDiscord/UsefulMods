@@ -38,34 +38,3 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
-
-## Forge 1.19.X
-
-| Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
-| [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
-| [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
-| [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | none |
-| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
-| [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
-| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) | Unknown | Improves crashes and provides useful information. | NatanFudge | Both | None |
-| [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
-| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
-| [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
-
-## Quilt 1.19.X
-
-| Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| [AFKPeace](https://modrinth.com/mod/afkpeace) | Unknown | Adds peace-of-mind features for AFKing. | AMereBagatelle | Client | None |
-| [HealthCare](https://modrinth.com/mod/healthcare) | Unknown | Neat serverside mob health tags. | samolego | Server | none |
-| [Iris Shaders](https://modrinth.com/mod/iris) | Unknown | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | IMS212 | Client | none |
-| [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | Unknown | A mod to add clean and useful HUD widgets | DarkKronicle | Client | none |
-| [Mod Menu](https://modrinth.com/mod/modmenu) | Unknown | Adds a mod menu to view the list of mods you have installed | Prospector | Client | none |
-| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Unknown | Adds a highly-configurable zoom key for Fabric | Ennui | Client | Alpha (1) |
-| [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
-| [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
-| [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
-
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
