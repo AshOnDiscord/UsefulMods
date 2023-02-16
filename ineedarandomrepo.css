@@ -1,0 +1,25 @@
+:root{
+
+    /* Theme Colors */
+    --button: #494d64;
+    --highlight: #c6a0f6;
+    --background: #24273a;
+    --secondary-background: #363a4f;
+    --hairline: #494d64;
+
+    /* Fonts*/
+    --primary-font: "Poppins", sans-serif;
+    --serif: 'Playfair Display', serif;;
+    --secondary-serif: 'Crimson Pro', serif;;
+
+    /* Font Colors */
+    --primary-color: #cad3f5;
+    --secondary-color: #c6a0f6;
+    --tertiary-color: #f5bde6;
+
+    /* Misc */
+    --box-shadow-prime: #181926 0px 50px 100px -20px, #181926 0px 30px 60px -30px;
+    --sidebar-width: 250px;
+
+    --semi-color: #13131380;
+}
